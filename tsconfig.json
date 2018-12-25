@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "ESNEXT",
+        "sourceMap": true,
+        "pretty": true
+    },
+    "include": [
+        "src/server/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
