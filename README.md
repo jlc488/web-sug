@@ -6,7 +6,8 @@
 
 This is a SEO product of API server.
 
--[web-sug](#web-sug) -[Instruction](#Instruction)
+- [web-sug](#web-sug)
+    - [Instruction](#Instruction)
 
 ## Instruction
 
