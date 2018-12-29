@@ -1,6 +1,5 @@
 import app from './app'
 import * as fs from 'fs'
-import { Crawler } from './server/crawler'
 // import * as spdy from 'spdy'
 
 // const options = {
@@ -12,7 +11,6 @@ const PORT = 3000
 
 const server = app.listen(PORT, () => {
   console.log(`The server is listening on port ${PORT}`)
-  new Crawler('http://google.com').goFetch()
 })
 
 declare const module: any

@@ -3,7 +3,9 @@
         "module": "commonjs",
         "target": "ESNEXT",
         "sourceMap": true,
-        "pretty": true
+        "pretty": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true
     },
     "include": [
         "src/server/**/*.ts"
