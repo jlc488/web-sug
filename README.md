@@ -1,5 +1,7 @@
 # web-sug
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jlc488/web-sug.svg)](https://greenkeeper.io/)
+
 SEO Product
 
 ## Instruction
