@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@types/async@2.0.50":
-  version "2.0.50"
-  resolved "https://registry.yarnpkg.com/@types/async/-/async-2.0.50.tgz#117540e026d64e1846093abbd5adc7e27fda7bcb"
-  integrity sha512-VMhZMMQgV1zsR+lX/0IBfAk+8Eb7dPVMWiQGFAt3qjo5x7Ml6b77jUo0e1C3ToD+XRDXqtrfw+6AB0uUsPEr3Q==
+"@types/async@3.0.2":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@types/async/-/async-3.0.2.tgz#d4c61a45695d1ca70ac7d072904770d4e2ab73e0"
+  integrity sha512-GuE075xd19mLhbY3bTnOro3yMgao0jARqxMDiRGo0J0wiCDg3VR21kaRnCaKmu0oxeJN+e2a1BM7EzHuunt3Pw==
 
 "@types/body-parser@*":
   version "1.17.0"
